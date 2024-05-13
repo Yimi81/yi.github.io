@@ -273,10 +273,10 @@ menu:
     #   name: Publication
     #   url: /publication
     #   weight: 30
-    - identifier: about
-      name: About
-      url: /about
-      weight: 40
+    # - identifier: about
+    #   name: About
+    #   url: /about
+    #   weight: 40
     # - identifier: search
     #   name: SEARCH
     #   url: /search
