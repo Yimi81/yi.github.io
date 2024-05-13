@@ -1,12 +1,11 @@
 ---
-title: "零一万物面向万卡集群的 AI Infra 建设"
-summary: 零一万物面向万卡集群的 AI Infra 建设
+title: "01-ai"
+summary: 01 ai 官方博客
 date: 2024-05-13
-weight: 2
-aliases: ["/papermod-features"]
-tags: ["PaperMod", "Docs"]
+weight: 1
 author: ["01 ai"]
 ---
+# 零一万物面向万卡集群的 AI Infra 建设
 
 ## 引言
 

@@ -1,5 +1,5 @@
 ---
-title: 01.Yi
-summary: Contains posts related to `PaperMod`
+title: Yi
+summary: 01
 description: Contains posts related to PaperMod
 ---
