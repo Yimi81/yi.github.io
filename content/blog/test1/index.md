@@ -1,13 +1,11 @@
 ---
-title: "FAQs / How To's Guide"
-summary: We'll try to answer frequently asked qestions by users.
+title: "Test2"
+summary: Learn About All Features in PaperMod
 date: 2021-01-20
-aliases: ["/papermod-how-to-guide"]
+weight: 2
+aliases: ["/papermod-features"]
 tags: ["PaperMod", "Docs"]
-author: ["PaperMod Contributors"]
-draft: true
-aliases: [/posts/papermod/papermod-how-to]
-weight: 3
+author: ["Aditya Telange"]
 ---
 
 > - **We'll be using `yml/yaml` format for all examples down below, I recommend using `yml` over `toml` as it is easier to read.**
