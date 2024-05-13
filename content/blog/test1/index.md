@@ -2,7 +2,7 @@
 title: "01-ai"
 summary: 01 ai 官方博客
 date: 2024-05-13
-weight: 2
+weight: 1
 aliases: ["/papermod-features"]
 tags: ["PaperMod", "Docs"]
 author: ["01 ai"]
